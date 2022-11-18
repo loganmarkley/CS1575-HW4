@@ -1,0 +1,7 @@
+6
+Fry 3
+Leela 1
+Bender 5
+Hermes 6
+Amy 2
+Nibbler 10

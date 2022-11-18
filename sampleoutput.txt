@@ -1,0 +1,13 @@
+Fry eats 5 popplers. Fry is satisfied after eating 5 popplers.
+Leela eats 5 popplers. Leela is satisfied after eating 5 popplers.
+Bender eats 5 popplers. Bender wants one more poppler!
+Hermes eats 10 popplers. Hermes wants 3 more popplers!
+Amy eats 5 popplers. Amy is satisfied after eating 5 popplers.
+Nibbler eats 10 popplers. Nibbler wants one more poppler!
+Bender eats 5 popplers. Bender is satisfied after eating 10 popplers.
+Hermes eats 5 popplers. Hermes is satisfied after eating 15 popplers.
+Nibbler eats 5 popplers. Nibbler is satisfied after eating 15 popplers.
+
+A total of 55 popplers were eaten.
+Hermes ate the most popplers: 15
+Fry ate the fewer popplers: 5
